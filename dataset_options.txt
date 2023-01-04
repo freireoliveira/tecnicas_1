@@ -1,0 +1,9 @@
+Opções de datasets: 
+
+Brazilian Cities: https://www.kaggle.com/datasets/crisparada/brazilian-cities
+Flights in Brazil: https://www.kaggle.com/datasets/ramirobentes/flights-in-brazil
+Crime data in Brazil: https://www.kaggle.com/datasets/inquisitivecrow/crime-data-in-brazil
+Brazil Real Estate Listings: https://www.kaggle.com/datasets/devvret/brazil-real-estate-listings
+Ifix Historical: https://www.kaggle.com/datasets/franckepeixoto/ifixhistorical
+Brazil Exports: https://www.kaggle.com/datasets/hugovallejo/brazil-exports
+Brazil Energy Consumption: https://www.kaggle.com/datasets/danielluzzi/ccee-brazil-energy-consumption
