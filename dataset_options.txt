@@ -6,4 +6,7 @@ Crime data in Brazil: https://www.kaggle.com/datasets/inquisitivecrow/crime-data
 Brazil Real Estate Listings: https://www.kaggle.com/datasets/devvret/brazil-real-estate-listings
 Ifix Historical: https://www.kaggle.com/datasets/franckepeixoto/ifixhistorical
 Brazil Exports: https://www.kaggle.com/datasets/hugovallejo/brazil-exports
+
+Escolhidos:
 Brazil Energy Consumption: https://www.kaggle.com/datasets/danielluzzi/ccee-brazil-energy-consumption
+Energy Dataset Country-Wise (1900-2021): https://www.kaggle.com/datasets/pranjalverma08/energy-dataset-countrywise-19002021?select=Brazil_energy_data.csv
