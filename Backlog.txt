@@ -1,0 +1,31 @@
+CCEE - Brazil Energy Consumption
+Energy Dataset Country-Wise (1900-2021)
+
+Periodo
+- 2018 a 2019
+
+ideias:
+Consumo de energia
+
+- classe total do brasil (segmentos) - Matheus
+- Qual a influencia do covid no consumo dos primeiros 5 meses 2019/2020 - Hiago
+- Energia por região (standby) (separar por)
+plotly 
+- Energia por estado - Matheus
+- Consumo classes na produção total - Matheus
+- Consumo Ramos na produção total - Matheus
+- Separar por tipo de classes e ramo - Aldenis
+- Top 5 estados ramos com segmentos e consumidores - Aldenis
+- 10 Ramos mais consumidores em qual estado top 3 - Aldenis
+
+Produção de energia
+
+- Matriz energetica no brasil 2019 e 2020 quantidade - Bea
+- diferença de produção e consumo 2019 e 2020 - Bea
+
+
+
+
+
+
+
